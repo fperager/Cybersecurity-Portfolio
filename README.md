@@ -8,5 +8,4 @@ Actively seeking a Cybersecurity Industrial placement. This portfolio aims to de
 Achieved First (75.85%) in 1st Year.
 
 ### Projects
-## SOC Analyst Internship 
 ## Sentinel SOC Home Lab
