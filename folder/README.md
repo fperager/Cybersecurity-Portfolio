@@ -7,3 +7,9 @@ During my MyFirstHack Security internship, I created a home SOC Lab in Microsoft
 - Log Analytics
 - Microsoft Sentinel
 - Sysmon
+
+## What I actually learned:
+- How data travels through an endpoint to a SIEM; from the Monitor Agent with a Collection Rule, landing in the Log Analytics Workspace.
+- Why Windows logging isn't enough for this and what Sysmon offers instead.
+- Writing KQL Queries to filter events from the raw logs of data. The queries I used can be found in "/queries".
+- Running commands on the VM to trace back through the logs to prove the Lab was successful.
